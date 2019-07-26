@@ -5,6 +5,7 @@ Blender addon with utilities for 3d printing. It's based on '3D Print Toolbox' b
 Made on Blender 2.78 and tested on Blender 2.79 (windows64).
 If you need the latest version for Blender 2.80, check the link: [3d-print-toolbox-modified](https://github.com/agapas/3d-print-toolbox-modified)
 
+### More info:
 Images below display original '3D Print Toolbox' (image on the left) and current modified version (image on the right):
 
 <p align="middle">
@@ -12,16 +13,12 @@ Images below display original '3D Print Toolbox' (image on the left) and current
   <img src="https://raw.githubusercontent.com/agapas/3d-print-toolbox-modified-blender2.79/master/images/print3dAddon.png" title="current version" width="180" height="600" />
 </p>
 
-### Added Features
+#### Added Features
 
 * added [make-solid](https://github.com/agapas/make-solid)
 * made 'Check All' button more visible
 * completely changed 'Clean Up' part to have more influence on the clean up process
 * added 'Copy to Clipboard' of the Volume and Area in Report's Output
-
-### Plans to add:
-
-* export selected objects to multiple STL
 
 ### Installing
 
